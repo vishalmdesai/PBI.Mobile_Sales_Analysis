@@ -3,6 +3,12 @@
 Overview
 This repository contains a Power BI Dashboard built for Mobile Sales Analysis. The dashboard offers in-depth insights into sales trends, top mobile models, brand performance, and growth analysis, making it ideal for understanding mobile sales data from 2021 to 2024.  
 
+
+[Uploading Recording 2024-12-27 090902 (1).mp4…](https://github.com/user-attachments/assets/ca7ad828-0c57-44cc-96cf-4ec1f623bd05
+)
+
+
+
 *Key Features🗝️:*  
 This dashboard is designed to provide visual and analytical insights into mobile sales performance across multiple dimensions.  
 

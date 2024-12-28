@@ -83,3 +83,4 @@ View detailed insights into sales, brands, payment modes, and more.
 ![Screenshot 2024-12-28 090306](https://github.com/user-attachments/assets/22456fbc-7c9f-45f8-9c8b-d3fc23637e46)
 ![Screenshot 2024-12-28 090320](https://github.com/user-attachments/assets/7bd66aef-cd7b-496f-9890-5a7c97041a1f)  
 
+https://www.linkedin.com/in/vishal-desai9/
